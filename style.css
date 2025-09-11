@@ -2,6 +2,7 @@
 body {
     margin:0;
     padding:0;
+    cursor: url('67.png'), auto;
 }
 h1 {
     font-weight: 700;
