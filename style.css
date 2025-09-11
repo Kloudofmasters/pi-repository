@@ -54,3 +54,44 @@ html, body {
         cursor: pointer;
         z-index: -1;
     }
+    .fake-form {
+        padding: 8px 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        border-radius: 4px;
+        min-width: 200px;
+        height: 24px; 
+        display: inline-block;
+    }
+    .fake-form-handler {
+        content: 'Enter digits of pi';
+        position: absolute;
+        top: 8px;
+        left: 12px;
+        font-family: sans-serif;
+        font-size: 16px;
+        color: #aaa;
+        pointer-events: none;
+    }
+    .fake-button1{
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #c0bbbb;
+        text-align: center;
+        font-size: 16px;
+        color: #333;
+        user-select: none;
+        pointer-events: none;
+        border:2px solid #333;
+    }
+    .interactive-area1 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 400px;
+        height: 100px;
+        background-color: transparent;
+        cursor: pointer;
+        z-index: -1;
+    }
