@@ -41,7 +41,6 @@ html, body {
         user-select: none;
         pointer-events: none;
         border:2px solid #333;
-        padding:10px 20px;
     }
     .interactive-area {
         position: absolute;
