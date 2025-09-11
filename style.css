@@ -1,5 +1,6 @@
 body {
-    background-color:aquamarine
+    margin:0;
+    padding:0;
 }
 h1 {
     font-weight: 700;
@@ -7,6 +8,9 @@ h1 {
 }
 p{
     font-family:"Merienda" sans-serif
+}
+html, body {
+    min-height: 100%;
 }
 .background-gradient {
     height: 100vh;
