@@ -1,3 +1,4 @@
+/*Add image that shrinks with scrolling; add tiny image that floats around; */
 body {
     margin:0;
     padding:0;
@@ -30,3 +31,24 @@ html, body {
         background-position:0% 50%;
     }
 }
+.fake-button{
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #ffa4a4;
+        text-align: center;
+        font-size: 16px;
+        color: #333;
+        user-select: none;
+        pointer-events: none;
+    }
+    .interactive-area {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 200px;
+        height: 50px;
+        background-color: transparent;
+        cursor: pointer;
+        z-index: -1;
+    }
