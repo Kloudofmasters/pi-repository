@@ -1,4 +1,4 @@
-/*Add image that shrinks with scrolling; add tiny image that floats around; */
+/*Add image that shrinks with scrolling*/
 body {
     margin:0;
     padding:0;
@@ -125,4 +125,10 @@ html, body {
     to {
         top: calc(100% - 75px);
     }
+}
+.sixseven {
+    position: absolute;
+    width: 150px;
+    height: auto; 
+    color:#ccc;
 }
