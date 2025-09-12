@@ -116,7 +116,7 @@ html, body {
         left: 0;
     }
     to {
-        left: calc(100% - 100px);
+        left: calc(100% - 60px);
     }
 }
 @keyframes bounceY {
