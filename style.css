@@ -141,78 +141,78 @@ html, body {
 .pink {
     background: pink;
     left: 100px;
-    top: 100px;
+    top: 4100px;
     z-index: 7;
 }
 .red {
     background: red;
     left: 700px;
-    top: 50px;
+    top: 4050px;
     z-index: 3;
 }
 .orange{
     background: orange;
     left: 120px;
-    top: 170px;
+    top: 4170px;
     z-index: 2;
 }
 .yellow {
     background: yellow;
     left: 300px;
-    top: 10px;
+    top: 4010px;
     z-index: 9;
 }
 .lime {
     background: lime;
     left: 100px;
-    top: 60px;
+    top: 4060px;
     z-index: 12;
 }
 .green {
     background: green;
     left: 250px;
-    top: 50px;
+    top: 4050px;
     z-index: 10;
 }
 .cyan {
     background: cyan;
     left: 600px;
-    top: 20px;
+    top: 4020px;
     z-index: 11;
 }
 .blue {
     background: blue;
     left: 700;
-    top: 400px;
+    top: 4400px;
     z-index: 4;
 }
 .purple {
     background: purple;
     left: 10px;
-    top: 700px;
+    top: 4700px;
     z-index: 0;
 }
 .brown {
     background: red;
     left: 30px;
-    top: 600px;
+    top: 4600px;
     z-index: 1;
 }
 .lgray {
     background: lightgray;
     left: 800px;
-    top: 700px;
+    top: 4700px;
     z-index: 5;
 }
 .dgray {
     background: darkgray;
     left: 700px;
-    top: 500px;
+    top: 4500px;
     z-index: 6;
 }
 .black {
     background: black;
     left: 500px;
-    top: 200px;
+    top: 4200px;
     z-index: 8;
 }
