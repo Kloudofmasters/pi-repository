@@ -1,4 +1,4 @@
-/*Add image that shrinks with scrolling*/
+/*precede ALL edits with a comment detailing who and what*/
 body {
     margin:0;
     padding:0;
@@ -128,7 +128,7 @@ html, body {
 }
 .sixseven {
     position: absolute;
-    width: 150px;
+    width: 600px;
     height: auto; 
     color:#ccc;
 }
