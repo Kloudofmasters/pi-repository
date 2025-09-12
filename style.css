@@ -116,7 +116,7 @@ html, body {
         left: 0;
     }
     to {
-        left: calc(100% - 60px);
+        left: calc(100% - 90px);
     }
 }
 @keyframes bounceY {
@@ -141,78 +141,78 @@ html, body {
 .pink {
     background: pink;
     left: 100px;
-    top: 4100px;
+    top: 3100px;
     z-index: 7;
 }
 .red {
     background: red;
     left: 700px;
-    top: 4050px;
+    top: 3050px;
     z-index: 3;
 }
 .orange{
     background: orange;
     left: 120px;
-    top: 4170px;
+    top: 3170px;
     z-index: 2;
 }
 .yellow {
     background: yellow;
     left: 300px;
-    top: 4010px;
+    top: 3010px;
     z-index: 9;
 }
 .lime {
     background: lime;
     left: 100px;
-    top: 4060px;
+    top: 3060px;
     z-index: 12;
 }
 .green {
     background: green;
     left: 250px;
-    top: 4050px;
+    top: 3050px;
     z-index: 10;
 }
 .cyan {
     background: cyan;
     left: 600px;
-    top: 4020px;
+    top: 3020px;
     z-index: 11;
 }
 .blue {
     background: blue;
     left: 700;
-    top: 4400px;
+    top: 3400px;
     z-index: 4;
 }
 .purple {
     background: purple;
     left: 10px;
-    top: 4700px;
+    top: 3700px;
     z-index: 0;
 }
 .brown {
     background: red;
     left: 30px;
-    top: 4600px;
+    top: 3600px;
     z-index: 1;
 }
 .lgray {
     background: lightgray;
     left: 800px;
-    top: 4700px;
+    top: 3700px;
     z-index: 5;
 }
 .dgray {
     background: darkgray;
     left: 700px;
-    top: 4500px;
+    top: 3500px;
     z-index: 6;
 }
 .black {
     background: black;
     left: 500px;
-    top: 4200px;
+    top: 3200px;
     z-index: 8;
 }
