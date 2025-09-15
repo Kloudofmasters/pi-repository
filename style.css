@@ -233,117 +233,118 @@ html, body {
     background: #f897c1;
     left: 597.5px;
     top: 3702.5px;
-    z-index: 1.25;
+    z-index: 2;
 }
 .onehalf {
     background: #f88fbd;
     left: 595px;
     top: 3705px;
-    z-index: 1.5;
+    z-index: 3;
 }
 .twoquarter {
     background: #f889b9;
     left: 592.5px;
     top: 3707.5px;
-    z-index: 1.75;
+    z-index: 4;
 }
 .two {
     background: #f680b3;
     left: 590px;
     top: 3710px;
-    z-index: 2;
+    z-index: 5;
 }
 .threequarter {
     background: #fa79b1;
     left: 587.5px;
     top: 3712.5px;
-    z-index: 2.25;
+    z-index: 6;
 }
 .twohalf {
     background: #f972ac;
     left: 585px;
     top: 3715px;
-    z-index: 2.5;
-}.fourquarter {
+    z-index: 7;
+}
+.fourquarter {
     background: #f868a7;
     left: 582.5px;
     top: 3717.5px;
-    z-index: 2.75;
+    z-index: 8;
 }
 .three {
     background: #f860a2;
     left: 580px;
     top: 3720px;
-    z-index: 3;
+    z-index: 9;
 }
 .fivequarter {
     background: #f7579c;
     left: 577.5px;
     top: 3722.5px;
-    z-index: 3.25;
+    z-index: 10;
 }
 .threehalf {
     background: #f9509a;
     left: 575px;
     top: 3725px;
-    z-index: 3.5;
+    z-index: 11;
 }
 .sixquarter {
     background: #fa4896;
     left: 572.5px;
     top: 3727.5px;
-    z-index: 3.75;
+    z-index: 12;
 }
 .four {
     background: #f94090;
     left: 570px;
     top: 3730px;
-    z-index: 4;
+    z-index: 13;
 }
 .sevenquarter {
     background: #fa388c;
     left: 567.5px;
     top: 3732.5px;
-    z-index: 4.25;
+    z-index: 14;
 }
 .fourhalf {
     background: #fa3087;
     left: 565px;
     top: 3735px;
-    z-index: 4.5;
+    z-index: 15;
 }
 .eightquarter {
     background: #f92883;
     left: 562.5px;
     top: 3737.5px;
-    z-index: 4.75;
+    z-index: 16;
 }
 .five {
     background: #fc2180;
     left: 560px;
     top: 3740px;
-    z-index: 5;
+    z-index: 17;
 }.ninequarter {
     background: #fd197b;
     left: 557.5px;
     top: 3742.5px;
-    z-index: 5.25;
+    z-index: 18;
 }
 .fivehalf {
     background: #fd1077;
     left: 555px;
     top: 3745px;
-    z-index: 5.5;
+    z-index: 19;
 }
 .tenquarter {
     background: #fd0872;
     left: 552.5px;
     top: 3747.5px;
-    z-index: 5.75;
+    z-index: 20;
 }
 .six {
     background: #fe016f;
     left: 550px;
     top: 3750px;
-    z-index: 6;
+    z-index: 21;
 }
