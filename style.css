@@ -262,30 +262,60 @@ html, body {
 .onehalf {
     background: #fa3b8e;
     left: 595px;
-    top: 3715px;
+    top: 3705px;
     z-index: 1.5;
 }
 .twohalf {
     background: #f92b84;
     left: 585px;
-    top: 3725px;
+    top: 3715px;
     z-index: 2.5;
 }
 .threehalf {
     background: #fd1e7f;
     left: 575px;
-    top: 3735px;
+    top: 3725px;
     z-index: 3.5;
 }
 .fourhalf {
     background: #f81778;
     left: 565px;
-    top: 3745px;
+    top: 3735px;
     z-index: 4.5;
 }
 .fivehalf {
     background: #fd0872;
     left: 555px;
-    top: 3755px;
+    top: 3745px;
+    z-index: 5.5;
+}
+.onehalf2 {
+    background: #fa3b8e;
+    left: 595px;
+    top: 3705px;
+    z-index: 1.5;
+}
+.twohalf2 {
+    background: #f92b84;
+    left: 585px;
+    top: 3715px;
+    z-index: 2.5;
+}
+.threehalf2 {
+    background: #fd1e7f;
+    left: 575px;
+    top: 3725px;
+    z-index: 3.5;
+}
+.fourhalf2 {
+    background: #f81778;
+    left: 565px;
+    top: 3735px;
+    z-index: 4.5;
+}
+.fivehalf2 {
+    background: #fd0872;
+    left: 555px;
+    top: 3745px;
     z-index: 5.5;
 }
