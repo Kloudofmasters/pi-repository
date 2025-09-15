@@ -224,98 +224,126 @@ html, body {
     z-index: 8;
 }
 .one {
-    background: #fc4a97;
+    background: #f9a0c6;
     left: 600px;
     top: 3700px;
     z-index: 1;
 }
+.onequarter {
+    background: #f897c1;
+    left: 597.5px;
+    top: 3702.5px;
+    z-index: 1.25;
+}
+.onehalf {
+    background: #f88fbd;
+    left: 595px;
+    top: 3705px;
+    z-index: 1.5;
+}
+.twoquarter {
+    background: #f889b9;
+    left: 592.5px;
+    top: 3707.5px;
+    z-index: 1.75;
+}
 .two {
-    background: #fd398e;
+    background: #f680b3;
     left: 590px;
     top: 3710px;
     z-index: 2;
 }
+.threequarter {
+    background: #fa79b1;
+    left: 587.5px;
+    top: 37152.5px;
+    z-index: 2.25;
+}
+.twohalf {
+    background: #f972ac;
+    left: 585px;
+    top: 3715px;
+    z-index: 2.5;
+}.fourquarter {
+    background: #f868a7;
+    left: 582.5px;
+    top: 3717.5px;
+    z-index: 2.75;
+}
 .three {
-    background: #fa2782;
+    background: #f860a2;
     left: 580px;
     top: 3720px;
     z-index: 3;
 }
+.fivequarter {
+    background: #f7579c;
+    left: 577.5px;
+    top: 3722.5px;
+    z-index: 3.25;
+}
+.threehalf {
+    background: #f9509a;
+    left: 575px;
+    top: 3725px;
+    z-index: 3.5;
+}
+.sixquarter {
+    background: #fa4896;
+    left: 572.5px;
+    top: 3727.5px;
+    z-index: 3.75;
+}
 .four {
-    background: #f91a7b;
+    background: #f94090;
     left: 570px;
     top: 3730px;
     z-index: 4;
 }
+.sevenquarter {
+    background: #fa388c;
+    left: 567.5px;
+    top: 3732.5px;
+    z-index: 4.25;
+}
+.fourhalf {
+    background: #fa3087;
+    left: 565px;
+    top: 3735px;
+    z-index: 4.5;
+}
+.eightquarter {
+    background: #f92883;
+    left: 562.5px;
+    top: 3737.5px;
+    z-index: 4.75;
+}
 .five {
-    background: #f91276;
+    background: #fc2180;
     left: 560px;
     top: 3740px;
     z-index: 5;
+}.ninequarter {
+    background: #fd197b;
+    left: 557.5px;
+    top: 3742.5px;
+    z-index: 5.25;
+}
+.fivehalf {
+    background: #fd1077;
+    left: 555px;
+    top: 3745px;
+    z-index: 5.5;
+}
+.tenquarter {
+    background: #fd0872;
+    left: 552.5px;
+    top: 3747.5px;
+    z-index: 5.75;
 }
 .six {
     background: #fe016f;
     left: 550px;
     top: 3750px;
     z-index: 6;
-}
-.onehalf {
-    background: #fa3b8e;
-    left: 595px;
-    top: 3705px;
-    z-index: 1.5;
-}
-.twohalf {
-    background: #f92b84;
-    left: 585px;
-    top: 3715px;
-    z-index: 2.5;
-}
-.threehalf {
-    background: #fd1e7f;
-    left: 575px;
-    top: 3725px;
-    z-index: 3.5;
-}
-.fourhalf {
-    background: #f81778;
-    left: 565px;
-    top: 3735px;
-    z-index: 4.5;
-}
-.fivehalf {
-    background: #fd0872;
-    left: 555px;
-    top: 3745px;
-    z-index: 5.5;
-}
-.onehalf2 {
-    background: #fa3b8e;
-    left: 595px;
-    top: 3705px;
-    z-index: 1.5;
-}
-.twohalf2 {
-    background: #f92b84;
-    left: 585px;
-    top: 3715px;
-    z-index: 2.5;
-}
-.threehalf2 {
-    background: #fd1e7f;
-    left: 575px;
-    top: 3725px;
-    z-index: 3.5;
-}
-.fourhalf2 {
-    background: #f81778;
-    left: 565px;
-    top: 3735px;
-    z-index: 4.5;
-}
-.fivehalf2 {
-    background: #fd0872;
-    left: 555px;
-    top: 3745px;
-    z-index: 5.5;
 }
