@@ -224,31 +224,31 @@ html, body {
     z-index: 8;
 }
 .one {
-    background: #fc2180;
+    background: #fc4a97;
     left: 600px;
     top: 3700px;
     z-index: 1;
 }
 .two {
-    background: #fe1a7d;
+    background: #fa358a;
     left: 590px;
     top: 3710px;
     z-index: 2;
 }
 .three {
-    background: #fb1478;
+    background: #fd2281;
     left: 580px;
     top: 3720px;
     z-index: 3;
 }
 .four {
-    background: #fe0e76;
+    background: #fa1578;
     left: 570px;
     top: 3730px;
     z-index: 4;
 }
 .five {
-    background: #fd0772;
+    background: #fb0d74;
     left: 560px;
     top: 3740px;
     z-index: 5;
