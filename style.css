@@ -226,36 +226,36 @@ html, body {
 .one {
     background: #fc2180;
     left: 600px;
-    top: 3300px;
+    top: 3700px;
     z-index: 1;
 }
 .two {
     background: #fe1a7d;
     left: 590px;
-    top: 3310px;
+    top: 3710px;
     z-index: 2;
 }
 .three {
     background: #fb1478;
     left: 580px;
-    top: 3320px;
+    top: 3720px;
     z-index: 3;
 }
 .four {
     background: #fe0e76;
     left: 570px;
-    top: 3330px;
+    top: 3730px;
     z-index: 4;
 }
 .five {
     background: #fd0772;
     left: 560px;
-    top: 3340px;
+    top: 3740px;
     z-index: 5;
 }
 .six {
     background: #fe016f;
     left: 550px;
-    top: 3350px;
+    top: 3750px;
     z-index: 6;
 }
