@@ -9,7 +9,7 @@ h1 {
     font-family:"Crimson Text" sans-serif;
 }
 p{
-    font-family:"Merienda" sans-serif
+    font-family:"Merienda" sans-serif;
 }
 html, body {
     min-height: 100%;
@@ -347,4 +347,40 @@ html, body {
     left: 550px;
     top: 3750px;
     z-index: 21;
+}
+.silmarillion {
+    height:1000px;
+    width:400px;
+    top: 4000px;
+    left:50px;
+}
+.hobbit {
+    height:1000px;
+    width:400px;
+    top: 4000px;
+    left:500px;
+}
+.fellowship {
+    height:1000px;
+    width:400px;
+    top: 4000px;
+    left:950px;
+}
+.towers {
+    height:1000px;
+    width:400px;
+    top: 5200px;
+    left:50px;
+}
+.king {
+    height:1000px;
+    width:400px;
+    top: 5200px;
+    left:500px;
+}
+.unfinished {
+    height:1000px;
+    width:400px;
+    top: 5200px;
+    left:950px;
 }
