@@ -349,38 +349,62 @@ html, body {
     z-index: 21;
 }
 .silmarillion {
-    height:1000px;
+    height:800px;
     width:400px;
-    top: 4000px;
-    left:50px;
+}
+.silmarillion img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  object-position: 50px 4000px; 
 }
 .hobbit {
-    height:1000px;
+    height:800px;
     width:400px;
-    top: 4000px;
-    left:500px;
+}
+.hobbit img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  object-position: 500px 4000px; 
 }
 .fellowship {
-    height:1000px;
+    height:800px;
     width:400px;
-    top: 4000px;
-    left:950px;
+}
+.fellowship img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  object-position: 950px 4000px; 
 }
 .towers {
-    height:1000px;
+    height:800px;
     width:400px;
-    top: 5200px;
-    left:50px;
+}
+.towers img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  object-position: 50px 5200px; 
 }
 .king {
-    height:1000px;
+    height:800px;
     width:400px;
-    top: 5200px;
-    left:500px;
+}
+.king img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  object-position: 500px 5200px; 
 }
 .unfinished {
-    height:1000px;
+    height:800px;
     width:400px;
-    top: 5200px;
-    left:950px;
+}
+.unfinished img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  object-position: 950px 5200px; 
 }
