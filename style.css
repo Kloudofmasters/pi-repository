@@ -409,8 +409,10 @@ html, body {
   object-position: 950px 5200px; 
 }
 .bettersix {
-    position: absolute;
-    width: 1000px;
-    height: auto; 
-    color:#ccc;
+    width: 670px;
+    height: 670px;
+}
+.bettersix img {
+    object-fit: cover;
+    object-position: 50px 6100px;
 }
