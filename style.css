@@ -1,4 +1,4 @@
-/*precede ALL edits with a comment detailing who and what*/
+/*precede ALL edits with a comment detailing 1) an alias and 2) what the edit is*/
 body {
     margin:0;
     padding:0;
@@ -108,9 +108,9 @@ html, body {
     width: 200px;
     height: 100px; 
     animation: 
-        bounceX 4s linear infinite alternate, 
+        bounceX 5s linear infinite alternate, 
         bounceY 3s linear infinite alternate; 
-    animation-delay: 0s, +5s;
+    animation-delay: 0s, +3s;
 }
 @keyframes bounceX {
     from {
