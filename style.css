@@ -110,7 +110,7 @@ html, body {
     animation: 
         bounceX 4s linear infinite alternate, 
         bounceY 3s linear infinite alternate; 
-    animation-delay: 0s, -2s;
+    animation-delay: 0s, +5s;
 }
 @keyframes bounceX {
     from {
