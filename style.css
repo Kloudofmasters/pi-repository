@@ -11,6 +11,10 @@ h1 {
 p{
     font-family:"Merienda" sans-serif;
 }
+p1{
+    font-weight: 1700;
+    font-family:"Merienda" sans-serif;
+}
 html, body {
     min-height: 100%;
 }
