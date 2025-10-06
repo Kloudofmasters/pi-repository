@@ -133,7 +133,8 @@ html, body {
     }
 }
 .sixseven {
-    position: absolute;
+    top:1900px;
+    left:200px;
     width: 1000px;
     height: auto; 
     color:#ccc;
@@ -434,5 +435,5 @@ p2 {
     font-size:44px;
 }
 p3 {
-    font-size:16px;
+    font-size:20px;
 }
