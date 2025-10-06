@@ -12,7 +12,7 @@ p{
     font-family:"Merienda" sans-serif;
 }
 p1{
-    font-weight: 1700;
+    font-size:100;
     font-family:"Merienda" sans-serif;
 }
 html, body {
@@ -429,4 +429,10 @@ html, body {
     height: 100%;
     object-fit: cover; 
     object-position: 10px 8200px; 
+}
+p2 {
+    font-size:44px;
+}
+p3 {
+    font-size:24px;
 }
