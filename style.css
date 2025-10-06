@@ -114,7 +114,7 @@ html, body {
     animation: 
         bounceX 5s linear infinite alternate, 
         bounceY 3s linear infinite alternate; 
-    animation-delay: +1s, +4s;
+    animation-delay: +0s, +2.5s;
 }
 @keyframes bounceX {
     from {
@@ -133,7 +133,7 @@ html, body {
     }
 }
 .sixseven {
-    top:1900px;
+    top:1750px;
     left:200px;
     width: 1000px;
     height: auto; 
