@@ -100,6 +100,10 @@ html, body {
         cursor: pointer;
         z-index: -1;
     }
+:root {
+  --duration-x: 12.1s; 
+  --duration-y: 11.3s; 
+}
 .container {
     position: relative;
     width: 100vw;
