@@ -441,3 +441,10 @@ p2 {
 p3 {
     font-size:20px;
 }
+bdr {
+    filter:grayscale(100%);
+    transition: filter 0.5s ease-in-out;
+}
+bdr:hover {
+  filter: grayscale(0%);
+}
